@@ -1,0 +1,266 @@
+* ITEMS
+** Standard Adventurer's Kit:
+ - Nokia 3310
+   - Allows you to contact other players
+   - As hard as diamond (you can sharpen knives)
+   - Plays snake
+ - 12 Glow Sticks
+ - Blue Tarp
+   - Allows players to sleep
+ - Plastic bag
+   - Contains SAK
+ - Lighter
+   - Customizable decal
+ - 24 hot dogs / cake slices
+   - 1 hot dog = 1HP healing
+   - 5 hot dogs or more = 50% chance QUEEZ
+   - 10 hot dogs or more = 100% chance QUEEZ
+* STATS
+** Initial stats
+-Everyone has 10 HP
+    -Players die if damaged at all while 0HP or less
+ - GUTS
+   - How hard it is to get SPOOKED
+   - acts as a form of will
+ - Street smarts
+   - How not to get raped by gangsters
+   - acts like streewise
+ - Book smarts
+   - History, magic, being able to identify things
+* STATUSES
+** SPOOKED status
+ - makes you feel scared and want to run, become submissive
+ - removal
+   - any attack
+   - encouragement from friends
+   - self-assurance
+** QUEEZ status
+ - cannot eat anything
+ - strenuous actions cause puke
+ - removal
+   - puke
+   - take pepto bismol
+ - puking
+   - takes 10 seconds
+   - makes you unable to eat for a while
+* CAMPAIGN ELEMENTS
+* ENEMIES
+** SKELETONS
+*** lv1 bone thug
+ - wears crappy black jacket, tattered red pants, leather helmet
+ - 1hp
+   - on death, bones fall apart
+ 1.Skelly scream
+   - roll 10 d20+GUTS or more or get SPOOKED
+   - if already SPOOKED, get UNSPOOKED
+ 2.Bone Jab
+   - one damage to one person
+*** lv2 bone thug
+ - wears bodyplate w/leather jacket, tattered red pants, leather helmet
+ - 3 HITS, 1HP each
+   - Collapses after each hit, pile after 3 hits
+ - attacks
+   1. Bone xylophone - plays song by knocking on ribs
+      - roll 12 d20+GUTS or get SPOOKED
+      - if already SPOOKED, get UNSPOOKED
+   2.Bone Slap - slaps you with one arm using the other
+      - two damage to one person
+   3.Bone Slam - grabs plive white skeleton, slams it on player
+      - 1d6 damage to one player, kills white skeleton
+*** Armored bone thug
+ - full bodyplate, steel helmet, carries large bone
+ - 5 hits, 5hp each
+   - Collapses after each hit, pile after 3 hits
+ - attacks: all attacks of lv2 thug plus:
+   1. Shockwave - knocks bone on ground, makes noise
+      - roll 15 d20+GUTS or get SPOOKED
+      - if within 3m, knocked prone
+   2. Concussion - cracks player with bone
+      - 1d6+4 damage
+   3. Spartan kick - kick player in chest
+      - sends player 10m back, prone, 1d4+2 damage
+*** Skeleton attendant
+ - Carries napkin over arm, shoddy looking gun built into arm
+ - Like to attack from a range
+ - 2 hits, 5hp because armor
+ - attacks
+   1. Fire
+      - Shoots thick ball out of arm designed to break bones. 3 damage.
+   2. clunk
+      - hits player directly with arm gun. 2 damage.
+* PLOT
+** S1:START
+ - Everyone is in basement of ghetto church full of shitty secondhand
+   items.
+   - Smells like pee, secondhand smoke, and cheap cleaning products
+   - Skull and crossbones on wall
+   - Assy thrift store with:
+     - Oversized Tommy Hilfiger sweatshirt
+     - Colorful 90's hiphop hat
+     - Coffee mugs with cats and/or flowers on them
+     - Uncomfortable orange chairs
+     - Crochet set
+     - VHS's of Jesusman, the SMB movie, Space Jam, 90's sitcoms
+   - Poster of skeleton anatomy
+   - Lightly damaged red brick cardboard play blox
+ - Skeleton in black suit on ground floor, preist of "bononism", warns
+   of "bone thugs" when players go outside
+ - In Detroit, town where all residents are skeletons
+ - Skeleton motor-unicycle gang called "Bone Thugs" runs rampant
+   - Racist against non-skeletons
+** S2:AROUND TOWN
+ - Armored Bone Thugs patrol the town outskirts 24/7, require bribe
+   of $200 or valuable item
+   - Symbol is bone wheel
+ - Potential locations
+   - Masonic temple theatre
+     - The theather is closed, one building is burned down
+       - Inside abandoned: Kelly
+	 - Kelly is homeless skell in powdered wig with Lincoln-like ideas, talks about freedom of expression.
+	 - Doesn't want to be a skeleton
+	 - Knows about 'black parade', thinks they're stealing his freedoms.
+	 - Knows town, can explain where to go
+     - Metropolitan center for high technology
+       - Many floors, open classrooms, nobody there
+       - Interesting places:
+	 - Chemistry lab - full of unidentified potions
+	   - Red potion: potion of healing
+	   - Green potion: potion of queez
+	   - Yellow potion: potion of slow time
+	   - Orange potion: strong acid
+	   - White potion: poison
+	 - Computer lab
+	   - Has map of town, crappy mspaint on it
+	 - Biomechanical lab
+	   - Prosthetic hand
+	   - Jar of pink goo; two bones fuzed with it
+	   - Unreadably Verbose Books
+	 - After vising all 3 places, alarm sounds in middle of third place.
+     - Government block
+       - Fire department has limited hours, nobody working there because sunday
+       - Police station is guarded tower. Not obviously police station, police do not react to party.
+       - Town hall is boring in every way
+     - Stores
+       - Bar
+	 - Pressure point for bone thug activity. Alcohol is served at
+           the counter, weed sold in back.
+       - Fruitfulworks
+	 - Doesn't serve actual fruit; serves fruit-flavored candy and soda
+       - White grove
+	 - Basically olive garden
+	 - Cocaine in back
+** S3:FIGURING THINGS OUT
+*** Thing happen!
+ - Several very strong bone thugs ambush a store, and players are faced with two options:
+   1. Dial 911 on nokia, escape during police/thug fight
+   2. Get gassed, kidnapped, stuck in broadcast tower
+      - Because thugs dont think fleshies are smart, they take all your money, none of your stuff, and leave you in a cell with a 9 digit keypad. The password is 1212.
+      - If you rip off the keypad, it reveals red, black, white.
+	- Black/Red: door relocks
+	- Black/White: Door unlocks
+	- Red/White: Alarm sounds. Attendant wakes and runs upstairs.
+*** Broadcast Tower
+ - Tower basement:Outside the cell there's a sleeping lv2 thug, stairs up and down, and an elevator. The elevator can take you to floors B-2.
+ - B2:Skeletons locked up.
+   - Heavy door to tunnels in B2.
+   - Two of them obsessed with books, harry potter and rhyming dictionary.
+   - One tied up and screaming (wants hammer to kill self).
+   - One is dark red, blind, missing one arm and one leg, says little. If you kill the hammer one, the red one will adapt its body parts and act as golem.
+ - G: Lobby. Potted plants, mints, attendent ducking under table.
+   - Exit the tower:You're happy to be outside of Detroit for once, but there's not much out here. There's a road, and no signage. Maybe if you had a car...
+     - If you choose to take the road, an armored van starts down the road, and 2 armored bone thugs climb out.
+     - If you go off the road, there is no other road. Eventually there is a dangerous forest.
+ - 1: Storage. Keys on wall. Lots of boxes full of metal parts.
+ - 2: Rituals. Full of spellbooks. Bononist cross on wall.
+   - Priest in room, with badass purple staff. Summons 5 skeletons.
+     - Naked, crappy skeletons (lv1). 1 skeleton is ally because crappy.
+   - Books:
+     - On the formation and Summonning of skeletons
+     - The human brain
+     - Soul containment and preservation
+     - Magic bonding
+ - 3: Radio tower:Ladder to roof, operator is lv2 thug, weird box broadcasting information with screen that's off. Information is sent subconsciously to all skeletons.
+   - Large switch shuts off tower, but requires key. Key is in first floor storage.
+   - Buttons labeled 0-7 set 'Alert level'. Set at 3.
+   - Red button initates call with skeleton, asks for status report, etc.
+   - Series of door locks throughout tower. Door B2 lock is one there.
+   - Blue button pops out keyboard. Any keyboard button wakes up screen with message "Bone thugs have power. Protect territory. Fleshies are dangerous."
+ - Roof: Massive antenna.
+*** Tunnels 
+ - Attendants everywhere, but they run
+ - Area 1: lv2 skeleton gardeners growing rows and rows of weed
+   - Right: Direct route from 1 to base has crumbled.
+   - Left: Hallway. Secret door on corner going under White Grove. Opens to upward stairs going to restaurant pantry.
+ - Area 2: Weed selling dungeon
+ - Under church: stairs go up, open door to stall in women's bathroom of church.
+ - Area 3: Lounge. Orange beanbag chairs, TV playing NOVA VHS tapes, stereo with bob marley.
+   - "Hitler’s Secret Weapon" - magic missle; actually a missle, bears swastika. Activated by shouting "Heil Hitler!"
+   - "The Case of the Bermuda Triangle" - Create a patch of magical deep water on the ground
+   - "Can AIDS Be Stopped?" - Give a living creature AIDS
+*** Bone thug base
+ - Hall ends at heavy door, keypad next to door
+ - Basement is full of weapons, metal parts from partially finished motorcycles, two rocket skeletons.
+   - Rocket skeletons fire rockets at party. 4 rockets, 4 direct damage, 1 blast.
+   - Knockback from firing rockets causes skeletons to shatter. If they reform, the rockets stop working.
+   - Cool basement stuff
+     - Chestplates, metal helmets, war boots, gloves
+     - Medium sized metal hammers
+     - Boxes with latches, some open with bones in them
+     - Welding gear, tools etc.
+     - Rocket launcher with one rocket
+ - Freight elevator leads to ground floor bank
+   - You're in pretty dark room with boxes. There's a door outside, and a hallway with offices.
+   - Outside is a parking lot with rows and rows of motorcycles.
+   - Inside there's skelly tellers doing not much, a vault that you can't get into. The tellers get money from secured registers.
+   - If you cause trouble in the bank, lights turn off and alarm sounds
+ - Staircase leads to second floor.
+   - Second floor is library
+   - Books are fake, librarian is lv2
+     - Every book is "Swiss Family Robinson" "Arabian Nights" "Robin Hood"
+     - One shelf has book missing, air coming through, view of wall
+     - Librarian has fake looking apple on table, pulling apple reveals joystick with directions marked
+     - Password is UUDDLRLR
+     - If you break the wall, it gets attention but works
+   - Area past booshelf is staircase upward
+ - Third floor
+   - Board of directors around table, all in suits. All armored skeletons, do not attack immediately.
+     - Directors want to negotiate with you, will do anything to protect Jason, leader at table head.
+     - Jason is bright red
+   - You cannot kill them...yet
+* PARTY MEMBERS
+** SHREK
+ - each onion does 2 damage
+** MEME GUY
+*** Abils
+ - 360 noscope:
+   - accuracy=d20>20/sqrt(spins)
+   - damage=d4+1+(spins/50)
+     - 1: nerf gun
+     - 2: potato gun
+     - 3: super soaker
+     - 4: bb gun
+   - time:2secs per spin
+ - doritos:
+   - 1.0+0.1*(#chips) times nxt atk
+   - summon 5 doritos first time, 1 less next...
+   - tally: (12345)
+** JOJO
+ - Stand damage
+   - 0.5 damage per second with punches
+   - single 2 damage punch
+ - Transform
+ - Poisonus gas
+** PEPSIMAN
+ - SHFFL
+   - 2 damage w/o dash
+   - 4 damage w/dash
+** VAPOURMAGE
+ - Summon statue: 10 more statue pounds per second
+ - Levitate
+   - can levitate anything up to 40lbs
+   - can levitate anything vaporwave up to 80lbs
+   - can levitate made statues regardless of weight
+   - lift 1ft per 2 seconds
+   - statues take lbs/10 damage before breaking
+   - statues deal what they take
+   - drop damage = lbs*ft/20
