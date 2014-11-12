@@ -4,7 +4,7 @@
 #   / ___/_  __/   | / __ \ / ___/
 #   \__ \ / / / /| |/ / / / \__ \ 
 #  ___/ // / / ___ / /_/ / ___/ / 
-# /____//_/ /_/  |_\___\_\/____/ [0.0.1a]
+# /____//_/ /_/  |_\___\_\/____/ [0.0.2a]
 # "Pronouned STACKS"
 # Sam Pagenkopf 2014-09-07
 
@@ -26,15 +26,18 @@ STAQS is designed so that it can easily by played on lined paper. You might want
 I also made some optional character sheets, which are hopefully in the folder with this document.
 ** Version notes
 *** Changelog
+[0.0.2a] STAQS has been lightly playtested. What was once called "O
 [0.0.1a] STAQS HAS NOT been playtested. This is a testing release of STAQS, designed to help make STAQS the best it can be. The rules are not set in stone yet. If you have v0.0.1a, let me know any changes you make, or what changes you think I should make. ssaammp@gmail.com
 * GUIDEBOOK
 ** Intro
-This is a catalogue of original staqs rules, which define "orthodox" staqs. If you follow all of these rules directly, you'll be playing orthodox staqs. Orthodox staqs contains intentional insanity and loopholes which are designed to increase the chaotic and improvizational aspects of the game.
+This is a catalogue of original staqs rules, which define ministaqs. If you follow all of these rules directly, you'll be playing ministaqs. Ministaqs contains intentional insanity and loopholes which are designed to increase the chaotic and improvizational aspects of the game. Simpler, more flexible versions of staqs are called "microstaqs", and variants based on it are called "staqs core".
+*** Terminology
+The rules decribed here constitute "ministaqs". miniSTAQS
 ** Roles
  1. The GM Creates the game universe, and controls everything within the rules, including the rules themselves.
  2. Players create and play a single character in the game universe.
 ** HP
-In orthodox, every player has a "current HP", denoted on their character sheet, as well as a "max HP". HP is how dead or not dead the player is. Higher values are less dead, lower values are more dead.
+In ministaqs, every player has a "current HP", denoted on their character sheet, as well as a "max HP". HP is how dead or not dead the player is. Higher values are less dead, lower values are more dead.
 *** Overheal
 If you want to give a player more health than "max health", you can give them a buffer in status which takes damage instead of the player.
 *** Death
