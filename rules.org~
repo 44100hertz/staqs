@@ -43,8 +43,7 @@ The GM decides what HP case determines death, and if a specific HP case indicate
 *** No Question rule
 If a player chooses to do something, and nobody questions it, the action is simply performed. This is called an "easy action". Even if this action would be difficult, no question means no difficulty.
 *** Difficult actions
-Based on player traits and difficulty of difficult actions, the GM can decide what numbers are required to complete the action.  Upon success, the player completes the action.  Upon failure;, the player does not complete the action. Upon critfail, the player completes the
-opposite of the action.
+Based on player traits and difficulty of difficult actions, the GM can decide what numbers are required to complete the action.  Upon success, the player completes the action.  Upon failure;, the player does not complete the action. Upon critfail, the player completes the opposite of the action.
 |--------------+---------+----------|
 | Difficulty   | Success | Critfail |
 |--------------+---------+----------|
