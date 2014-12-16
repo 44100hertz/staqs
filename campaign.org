@@ -228,9 +228,9 @@
      - Jason is bright red
    - You cannot kill them...yet
 * PARTY MEMBERS
-** SHREK
+** SHREK - 11
  - each onion does 2 damage
-** MEME GUY
+** MEME GUY - 11
 *** Abils
  - 360 noscope:
    - accuracy=d20>20/sqrt(spins)
@@ -239,22 +239,23 @@
      - 2: potato gun
      - 3: super soaker
      - 4: bb gun
+	 - 5: airsoft
    - time:2secs per spin
  - doritos:
    - 1.0+0.1*(#chips) times nxt atk
    - summon 5 doritos first time, 1 less next...
    - tally: (12345)
-** JOJO
+** JOJO - 11
  - Stand damage
    - 0.5 damage per second with punches
    - single 2 damage punch
  - Transform
  - Poisonus gas
-** PEPSIMAN
+** PEPSIMAN -
  - SHFFL
    - 2 damage w/o dash
    - 4 damage w/dash
-** VAPOURMAGE
+** VAPOURMAGE - 11
  - Summon statue: 10 more statue pounds per second
  - Levitate
    - can levitate anything up to 40lbs
