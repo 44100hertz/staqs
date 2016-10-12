@@ -30,12 +30,12 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
    Remember that an INTENTION or GOAL is not an action. If a player has a goal, help them to reach that goal, but do not allow them to try for it directly. "Hit the orge's eye with an arrow" is an action. "Kill the ogre" is not.
    If there is no doubt in a character's ability to perform an action, it is not difficult. Then it's easy, and they simply perform it. A gymnast can do a backflip. An armored knight will have to roll (and it won't be easy).
 *** Action difficulty ratings
-	This is up to the GM, but it's best for the players if you let them know how you're breaking things down. Difficulty falls into different numbered "classes", and depending on the campaign, you'll want to address them by either name or number.
- 1. Hard actions: Difficult actions you know the player is capable of.
- 2. Harder actions: Actions for which you're unsure of the player's ability.
- 3. Unlikely actions: Actions that are especially difficult, or unsuited for the particular player.
- 4. Improbable actions: Actions which the player is not supposed to be able to do.
- 5. Impossible actions: Actions which nobody is supposed to be able to do.
+    This is up to the GM, but it's best for the players if you let them know how you're breaking things down. Difficulty falls into different numbered "classes", and depending on the campaign, you'll want to address them by either name or number.
+ 1. Hard actions: Tough actions you know the player is capable of.
+ 2. Harder actions: When you're unsure of the player's ability to pull it off.
+ 3. Unlikely actions: Especially difficult, or unsuited for the particular player.
+ 4. Improbable actions: This character should not be able to do this!
+ 5. Impossible actions: Nobody should be able to do this!
 *** Probability tables
 **** D20 System
 #+CAPTION: D20 isn't perfect, but it's fast
@@ -89,29 +89,29 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
 [[./img/vapormage.jpg]]
 [[./img/meme-master.jpg]]
 *** Class
-	Class is indicitave of who or what a player IS. Stats, abilities, and items should be based on class. Class exists mostly to summarize and drawing or description on the rest of the sheet.
+	Class is indicitave of who or what a player IS. Stats, abilities, and items should be based on class. Class exists mostly to summarize drawing or description on the rest of the sheet.
 	Class can be upgraded as part of a major reward, or re-trained if the game just needs a mix up or rebalance. In a class upgrade, fundamental abilities are typically traded up from more basic/physical to more advanced/magical ones. In a class re-training, abilities are typically modified to ones that better fit the party, or provide more interesting gameplay.
 *** Name/Gender/Height/Weight/Age/Portrait/Description
 	The player should decide these. The GM should pay attention to them when building the world. Creating a black-hole character with 40 times the mass of the sun is not advised.
 *** Stats and Values
-	Stats represent a character's skills and attributes, especially ones that are not obvious based on player attributes. Traditionally, all characters have the same set of stats, with corresponding values. Character-specific stats should be used when convenient, and avoided when beaurocratic.
-	Stats should be specific. For example, if the party is in a town populated by skeletons, a GUTS stat for not being spooked by skeletons should be introduced. Do not describe the function of stats to players; instead let them figure them out.
-	When new stats are introduced, the GM should give players a set number of points which can be allocated to stats of their choosing. The GM should offer equal trades in exchange for stat bonuses. For example, a pious player could make a vow to a more humble life with more FAITH, which would limit their ability to possess money or valuables.
+	Stats represent a character's skills and attributes, especially ones that are not obvious based on player attributes. Traditionally, all characters have the same set of stats. Stats should be used when convenient, and avoided when beaurocratic.
+	Stats should be specific. For example, if the party is in a town populated by skeletons, a GUTS stat for not being spooked by skeletons could be introduced. Do not always describe the function of stats to players, but make it obvious in practice.
+	When new stats are introduced, players should decide how to handle them, and what to prioritize. The GM should offer equal trades in exchange for stat bonuses. For example, a pious player could make a vow to a more humble life with more FAITH, which would limit their ability to possess money or valuables.
 *** HP
-	Less HP = More dead. HP has a maximum value. When HP gets low enough, the player becomes dead or dying. HP is a key balancing point. If a player heals more HP than they have, the GM can choose to give them a temporary "overheal" stat.
+	Less HP = More dead. HP generally has a maximum value. When HP gets low enough, the player becomes dead or dying.
 *** Status
-	Status is like stats, but temporary. In a more serious staqs environment, keeping status in an easily erasable medium such as a whiteboard, phone, or computer is advisable.
-	Character-specific stats along the lines of "MP" are highly useful for limiting magic abilites, as they are usually more versetile and powerful than physical staqs abilities.
+	Status is like stats, but temporary. In a more serious staqs environment, keeping status in an easily erasable medium such as a whiteboard, phone, or computer can help.
+	Character-specific stats like "magic power" are highly useful for limiting magic abilites, as they are usually more versetile and powerful than physical staqs abilities.
 	Harmful/helpful/neutral status effects are an effective way to keep track of various things. If the players are in a toxic gas maze, a TOXIC status can keep players more confident about how poisoned they are.
 *** Abilities
-	Abilities are special things characters can do that others cannot do. The campaign should start with very few abilities so that players can master them. Create abilities with the timeline system in mind. Powerful abilities should involve trade-offs.
+	Abilities are special things characters can do that others cannot do. The campaign should start with very few abilities so that players can master them. Create abilities with the timeline system in mind, but let them center differently on combat or everyday use. Powerful abilities should involve trade-offs.
 	Adding RNG to abilities can make them much more fun. For example, a character could be able to materialize a weapon, but if the player materializes a random weapon based on a d6 roll, it could be a lot more interesting. Using an ability in a way that extends its terms is a DA.
 	Be wary of abilities that combine into others. Some combinations are extremely powerful, so they should be DA. Do not punish players for creativity in combining things, but be wary of their potential power.
 **** Ability ugrades
 	Ability upgrades can be a reward to players, for defeating a difficult enemy, showing great teamwork, overcoming evil, accomplishing a goal, finding something new, being creative, etc. Players can also expend time and effort to train abilities.
 	When upgrading abilites, players should have options. For example, players could have the choice of increasing damage OR reducing lag on their abilities. They could also have the choice to upgrade an ability, or to create a new ability.
 **** Example abilities
- - OGREDRIVE: A ogre character can move at double speed for a limited time, but must rest for equal time afterward.
+ - OGREDRIVE: An ogre character can move at double speed for a limited time, but must rest for equal time afterward.
  - DEWMANCY: An MLG (don't ask) character can summon a special green soda up to 10 meters away in 15 seconds which allows the recpient to avoid their next damage.
  - PARRY: A Dark Souls based character can enter a stance which reflects the next head-on physical attack ONLY IF it occurs in the next 5 seconds.
 ** Timeline system
@@ -136,18 +136,20 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
 *** Keep things to yourself
 	Don't directly tell players anything that would not be apparent to their characters. Letting them uncover what you've created is part of the fun. Do not give out HP for enemies, or numerical damages of player attacks. They don't even have to exist, you can legitimately feel out the 'dead'-ness of an enemy.
 *** Communication
-	Remember that players do not have access to the same information that you do, so you must express to them as much relevant information as possible. Adding entertaining or realistic detail to things improves the experience. Think about the five senses players have. If you want to relay information specifically to a player, write it on a scrap and hand it to them, or since we live in the 21st century, maybe text/PM them.
+	Remember that players do not have access to the same information that you do, so you must express to them as much relevant information as possible. Adding entertaining or realistic detail to things improves the experience. Think about the five senses players have. If you want to relay information specifically to a player, write it on a scrap and hand it to them, or since we live in the 21st century, maybe message their phone.
 *** Reading player actions
 	Because it's understood that players should not have to describe every nuance of what they do, determine what they would do, and have them do it. If it's too vague, or important details of their action matter, ask them directly about it. As you get better at understanding your players, you can fill in the details of their actions better.
 *** Enemies and fights
-	Fighting doesn't have to be an element of staqs, but it usually is. When something attacks something else, it's still an action that needs to be described, and depending on what happens, it can have different consequences. For example stabbing something's chest is easy, but stabbing their eye is a DA that does more damage. Two simultanious attacks can "clank" each other, meaning they cancel out. The timeline system makes everything much more interesting, so even with simple attacks, complex scenarios can play out.
-	Make sure players understand that they can do far more than use abilities when fighting. If they have a weapon, tool, or item they can use it to its fullest realistic potential.
+	Fighting doesn't have to be an element of staqs, but it usually is. When something attacks something else, it's still an action that needs to be described. There is no simple "attack" operation. For example, stabbing something's chest is easy, but stabbing its eye is a DA that does more damage.
+	The timeline system makes everything much more interesting, so even with simple attacks, complex scenarios can play out. Two simultanious attacks will interact with each other, for example.
+	Make sure players understand that they can do far more than use abilities when fighting. They can use anything at their disposal to its fullest potential.
 *** World Building
 **** Environment
-	 Characters need room to roam. Draw a map before starting a campaign. If you can't think of a world
+	 Characters need room to roam. Draw a map before starting a campaign. If you can't think of a world, just grab one from somewhere else, like google maps, and draw your own ideas onto it.
+	 Your world should be large but flexible. Plan out very large parts of the world, and fill in details that are most immediate, and keep a stock of ideas that can be applied to anywhere the players go, for more convincing impromptu.
 **** Enemies
-	 Enemies in staqs shouldn't be designed only as gameplay elements. Think logically; would a pack of deadly slugs sit around, waiting to attack the player? Not without a reason. In a nonviolent campaign, enemies can still exist. Think about the role and function of the enemy. Is it humane
-	 It's also good to give enemies defining physical and personality characteristics, both to avoid the monotony of fighting identical enemies, but also to aid in differentiating enemies when describing battles. If you ever played Pac-Man, you probably understand.
+	 Enemies in staqs shouldn't be designed only as gameplay elements. Think logically; would a pack of deadly slugs sit around, waiting to attack the player? Not without a reason. In a nonviolent campaign, enemies can still exist. Think about the role and function of the enemy.
+	 Try to give enemies defining physical and personality characteristics, both to avoid the monotony of fighting identical enemies, and to aid in differentiating enemies when describing battles.
 	 Do not design the exact attacks that enemies will use; design them with items, abilities, and traits just like players. If you feel unprepared, write down ideas for attacks, but do not write down a strict set of moves.
 *** How not to GM staqs
 **** Encounters
