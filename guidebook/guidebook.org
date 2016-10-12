@@ -10,7 +10,7 @@
 #+TITLE: staqs 0.1a manual
 
 STAQS is licensed under the OGL.
-A copy of OGL is in 'license', which should be in this folder.
+A copy of the OGL should be in 'LICENSE'
 
 * META
 ** What is this manual?

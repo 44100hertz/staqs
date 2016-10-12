@@ -8,8 +8,8 @@
 # "Pronouned STACKS"
 # ssaammp at gmail 2014-09-07
 
-STAQS is licensed under the WTFPL 2.0
-A copy of WTFPL 2.0 is in 'license'
+STAQS is licensed under the OPEN GAME LICENSE 1.0a
+A copy of OGL is in 'LICENSE'
 
 * Intro To STAQS
 ** Why I made STAQS
