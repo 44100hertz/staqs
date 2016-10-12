@@ -90,7 +90,7 @@
       - hits player directly with arm gun. 2 damage.
 * PLOT
 ** S1:START
- - Everyone is in basement of ghetto church full of shitty secondhand
+ - Everyone is in basement of crappy church full of secondhand
    items.
    - Smells like pee, secondhand smoke, and cheap cleaning products
    - Skull and crossbones on wall
