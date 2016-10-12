@@ -6,38 +6,32 @@
 #  ___/ // / / ___ / /_/ / ___/ / 
 # /____//_/ /_/  |_\___\_\/____/ [0.1a]
 # "Pronouned STACKS"
-# ssaammp+staqs at gmail 2014-12-15
-#+TITLE: staqs 0.1a manual
+# ssaammp+staqs at gmail 2016-10-11
+#+TITLE: staqs manual
 
 STAQS is licensed under the OGL.
 A copy of the OGL should be in 'LICENSE'
 
-* META
+* About
 ** What is this manual?
    This is a manual, directed primarily toward the GM, for running a staqs campaign. Serious players should also read this, and good GM's will read relevant excerpts of this manual to players. It's designed to catalogue the original rules and intentions of staqs.
 ** Why I made STAQS
    I grew up playing a game called "Quest", where one person tells his friend that "you're in the woods, and you need to become US president" or something like that. It was fun and irreverant. Then, I started playing Dungeons and Dragons, and I missed that improvizational, insane element. STAQS was originally a parody of D&D 4.0, but I realized there was so much potential that it could have, so I remade and simplified everything and called it staqs.
 ** What do I need for STAQS?
 You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, people and time.
-** Changelog
-[0.1a] Removed megaSTAQS/miniSTAQS distinction, major rewrites/reorganization
-[0.0.3a] Created megaSTAQS
-[0.0.2a] STAQS has been lightly playtested. What was once called "Orthodox staqs" is now "ministaqs". Various rule tweaks, commentary additions, etc.
-[0.0.1a] STAQS HAS NOT been playtested. This is a testing release of STAQS, designed to help make STAQS the best it can be. The rules are not set in stone yet. If you have v0.0.1a, let me know any changes you make, or what changes you think I should make. ssaammp at gmail dot com.
-* ESSENTIALS
-** Difficult Actions
-   One of the core elements of STAQS is the "difficult actions", or DA system. Depending on how hard an action is, you have a chance to complete the action (success), fail the action (failure), or do the closest opposite of the action (critfail). Critfails don't have to be negative, but they should violate the intent of the action.
-   Remember that an INTENTION or GOAL is not an action. If a player has a goal, help them to reach that goal, but do not allow them to try for it directly. "Hit the orge's eye with an arrow" is an action. "Kill the ogre" is not.
-   If there is no doubt in a character's ability to perform an action, it is not difficult. Then it's easy, and they simply perform it. A gymnast can do a backflip. An armored knight will have to roll (and it won't be easy).
-*** Action difficulty ratings
+* Difficult Actions
+  One of the core elements of STAQS is the "difficult actions", or DA system. Depending on how hard an action is, you have a chance to complete the action (success), fail the action (failure), or do the closest opposite of the action (critfail). Critfails don't have to be negative, but they should violate the intent of the action.
+  Remember that an INTENTION or GOAL is not an action. If a player has a goal, help them to reach that goal, but do not allow them to try for it directly. "Hit the orge's eye with an arrow" is an action. "Kill the ogre" is not.
+  If there is no doubt in a character's ability to perform an action, it is not difficult. Then it's easy, and they simply perform it. A gymnast can do a backflip. An armored knight will have to roll (and it won't be easy).
+** Action difficulty ratings
     This is up to the GM, but it's best for the players if you let them know how you're breaking things down. Difficulty falls into different numbered "classes", and depending on the campaign, you'll want to address them by either name or number.
  1. Hard actions: Tough actions you know the player is capable of.
  2. Harder actions: When you're unsure of the player's ability to pull it off.
  3. Unlikely actions: Especially difficult, or unsuited for the particular player.
  4. Improbable actions: This character should not be able to do this!
  5. Impossible actions: Nobody should be able to do this!
-*** Probability tables
-**** D20 System
+** Probability tables
+*** D20 System
 #+CAPTION: D20 isn't perfect, but it's fast
 |-------+--------------+-------------|
 | CLASS | SUCCESS      | CRITFAIL    |
@@ -48,7 +42,7 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
 |     4 | 20 then >=10 | 1           |
 |     5 | 20 then >=19 | >= 5        |
 |-------+--------------+-------------|
-**** D6 System
+*** D6 System
 #+CAPTION: Roll 1 at a time for extra hype.
 |-------+----------+----------|
 | CLASS | SUCCESS  | CRITFAIL |
@@ -59,7 +53,7 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
 |     4 | 3d6 >=17 | 3d6 5    |
 |     5 | 3d6 18   | >=5      |
 |-------+----------+----------|
-**** Coin Flips
+*** Coin Flips
 #+CAPTION: Call heads or tails before flipping. Or before each flip if you're feeling lucky. Every flip counts, so flipping called then uncalled will always result in a 2-flip failure without critfail.
 |-------+-----------+-------------|
 | CLASS | SUCCESS   | CRITFAIL    |
@@ -70,7 +64,7 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
 |     4 | 5x Called | 4x uncalled |
 |     5 | 7x Called | 2x uncalled |
 |-------+-----------+-------------|
-**** Other RNG
+*** Other RNG
 #+CAPTION: If you're not using any other system, try to make it match these odds.
 |-------+----------------+----------|
 | CLASS | SUCCESS        | CRITFAIL |
@@ -81,46 +75,46 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
 |     4 | 1/50           | 1/15     |
 |     5 | 1/200          | 1/3      |
 |-------+----------------+----------|
-** Elements of Characters
-*** Character Creation
-	Character creation is one of the most fun parts of staqs. Players can create any character they want to play as. These characters can be based on anything from an abstract collection of related ideas to a character from a video game. Characters benefit from elaboration. Just "Wizard" is boring, but "Middle-aged perverted wizard" has infinite possibilities.
-	Adding humor and in-jokes to characters is the bread and butter of traditional staqs, though staqs is fully capable of a serious campaign. Character disharmony kills staqs; a D&D 4.0 fighter in the middle of a staqs campaign will find himself confused and useless.
-*** Example characters
+* Elements of Characters
+** Character Creation
+       Character creation is one of the most fun parts of staqs. Players can create any character they want to play as. These characters can be based on anything from an abstract collection of related ideas to a character from a video game. Characters benefit from elaboration. Just "Wizard" is boring, but "Middle-aged perverted wizard" has infinite possibilities.
+       Adding humor and in-jokes to characters is the bread and butter of traditional staqs, though staqs is fully capable of a serious campaign. Character disharmony kills staqs; a D&D 4.0 fighter in the middle of a staqs campaign will find himself confused and useless.
+** Example characters
 [[./img/vapormage.jpg]]
 [[./img/meme-master.jpg]]
-*** Class
-	Class is indicitave of who or what a player IS. Stats, abilities, and items should be based on class. Class exists mostly to summarize drawing or description on the rest of the sheet.
-	Class can be upgraded as part of a major reward, or re-trained if the game just needs a mix up or rebalance. In a class upgrade, fundamental abilities are typically traded up from more basic/physical to more advanced/magical ones. In a class re-training, abilities are typically modified to ones that better fit the party, or provide more interesting gameplay.
-*** Name/Gender/Height/Weight/Age/Portrait/Description
-	The player should decide these. The GM should pay attention to them when building the world. Creating a black-hole character with 40 times the mass of the sun is not advised.
-*** Stats and Values
-	Stats represent a character's skills and attributes, especially ones that are not obvious based on player attributes. Traditionally, all characters have the same set of stats. Stats should be used when convenient, and avoided when beaurocratic.
-	Stats should be specific. For example, if the party is in a town populated by skeletons, a GUTS stat for not being spooked by skeletons could be introduced. Do not always describe the function of stats to players, but make it obvious in practice.
-	When new stats are introduced, players should decide how to handle them, and what to prioritize. The GM should offer equal trades in exchange for stat bonuses. For example, a pious player could make a vow to a more humble life with more FAITH, which would limit their ability to possess money or valuables.
-*** HP
-	Less HP = More dead. HP generally has a maximum value. When HP gets low enough, the player becomes dead or dying.
-*** Status
-	Status is like stats, but temporary. In a more serious staqs environment, keeping status in an easily erasable medium such as a whiteboard, phone, or computer can help.
-	Character-specific stats like "magic power" are highly useful for limiting magic abilites, as they are usually more versetile and powerful than physical staqs abilities.
-	Harmful/helpful/neutral status effects are an effective way to keep track of various things. If the players are in a toxic gas maze, a TOXIC status can keep players more confident about how poisoned they are.
-*** Abilities
-	Abilities are special things characters can do that others cannot do. The campaign should start with very few abilities so that players can master them. Create abilities with the timeline system in mind, but let them center differently on combat or everyday use. Powerful abilities should involve trade-offs.
-	Adding RNG to abilities can make them much more fun. For example, a character could be able to materialize a weapon, but if the player materializes a random weapon based on a d6 roll, it could be a lot more interesting. Using an ability in a way that extends its terms is a DA.
-	Be wary of abilities that combine into others. Some combinations are extremely powerful, so they should be DA. Do not punish players for creativity in combining things, but be wary of their potential power.
-**** Ability ugrades
-	Ability upgrades can be a reward to players, for defeating a difficult enemy, showing great teamwork, overcoming evil, accomplishing a goal, finding something new, being creative, etc. Players can also expend time and effort to train abilities.
-	When upgrading abilites, players should have options. For example, players could have the choice of increasing damage OR reducing lag on their abilities. They could also have the choice to upgrade an ability, or to create a new ability.
-**** Example abilities
+** Class
+       Class is indicitave of who or what a player IS. Stats, abilities, and items should be based on class. Class exists mostly to summarize drawing or description on the rest of the sheet.
+       Class can be upgraded as part of a major reward, or re-trained if the game just needs a mix up or rebalance. In a class upgrade, fundamental abilities are typically traded up from more basic/physical to more advanced/magical ones. In a class re-training, abilities are typically modified to ones that better fit the party, or provide more interesting gameplay.
+** Name/Gender/Height/Weight/Age/Portrait/Description
+       The player should decide these. The GM should pay attention to them when building the world. Creating a black-hole character with 40 times the mass of the sun is not advised.
+** Stats and Values
+       Stats represent a character's skills and attributes, especially ones that are not obvious based on player attributes. Traditionally, all characters have the same set of stats. Stats should be used when convenient, and avoided when beaurocratic.
+       Stats should be specific. For example, if the party is in a town populated by skeletons, a GUTS stat for not being spooked by skeletons could be introduced. Do not always describe the function of stats to players, but make it obvious in practice.
+       When new stats are introduced, players should decide how to handle them, and what to prioritize. The GM should offer equal trades in exchange for stat bonuses. For example, a pious player could make a vow to a more humble life with more FAITH, which would limit their ability to possess money or valuables.
+** HP
+       Less HP = More dead. HP generally has a maximum value. When HP gets low enough, the player becomes dead or dying.
+** Status
+       Status is like stats, but temporary. In a more serious staqs environment, keeping status in an easily erasable medium such as a whiteboard, phone, or computer can help.
+       Character-specific stats like "magic power" are highly useful for limiting magic abilites, as they are usually more versetile and powerful than physical staqs abilities.
+       Harmful/helpful/neutral status effects are an effective way to keep track of various things. If the players are in a toxic gas maze, a TOXIC status can keep players more confident about how poisoned they are.
+** Abilities
+       Abilities are special things characters can do that others cannot do. The campaign should start with very few abilities so that players can master them. Create abilities with the timeline system in mind, but let them center differently on combat or everyday use. Powerful abilities should involve trade-offs.
+       Adding RNG to abilities can make them much more fun. For example, a character could be able to materialize a weapon, but if the player materializes a random weapon based on a d6 roll, it could be a lot more interesting. Using an ability in a way that extends its terms is a DA.
+       Be wary of abilities that combine into others. Some combinations are extremely powerful, so they should be DA. Do not punish players for creativity in combining things, but be wary of their potential power.
+*** Ability ugrades
+       Ability upgrades can be a reward to players, for defeating a difficult enemy, showing great teamwork, overcoming evil, accomplishing a goal, finding something new, being creative, etc. Players can also expend time and effort to train abilities.
+       When upgrading abilites, players should have options. For example, players could have the choice of increasing damage OR reducing lag on their abilities. They could also have the choice to upgrade an ability, or to create a new ability.
+*** Example abilities
  - OGREDRIVE: An ogre character can move at double speed for a limited time, but must rest for equal time afterward.
  - DEWMANCY: An MLG (don't ask) character can summon a special green soda up to 10 meters away in 15 seconds which allows the recpient to avoid their next damage.
  - PARRY: A Dark Souls based character can enter a stance which reflects the next head-on physical attack ONLY IF it occurs in the next 5 seconds.
-** Timeline system
-   Welcome to the complex part of staqs. If time matters, the GM should keep track of everything on a timeline.
-*** Basics of Timelines
-	The timeline is typically separated into rows and columns, with each row being a time interval called a "tick", and each column being a different actor. Tick rate in battle is typically once every 3-5 ingame seconds. In longer-term timelines, it can be up to half an hour. Every tick, check which players are able to act, and allow them to do so. For continuous actions, ask whether or not they continue the action. Assume that actions on the same row occur simultaniously.
-*** Notation
-	Usually it's best if you use what makes sense to you, or what works best with the campaign. If you're a bit sunk, use Sam's notation.
-*** Sam's timeline notation:
+* Timeline system
+  Welcome to the complex part of staqs. If time matters, the GM should keep track of everything on a timeline.
+** Basics of Timelines
+       The timeline is typically separated into rows and columns, with each row being a time interval called a "tick", and each column being a different actor. Tick rate in battle is typically once every 3-5 ingame seconds. In longer-term timelines, it can be up to half an hour. Every tick, check which players are able to act, and allow them to do so. For continuous actions, ask whether or not they continue the action. Assume that actions on the same row occur simultaniously.
+** Notation
+       Usually it's best if you use what makes sense to you, or what works best with the campaign. If you're a bit sunk, use Sam's notation.
+** Sam's timeline notation:
 	 Sam uses lined paper, and draws columns for each player. He uses lots of abbreviations to make things quick. He uses a pencil because sometimes his notation requires him to erase things (whoops), but it's pretty fast.
  - Charge or wind-up is "C"
  - Offensive is "O"
@@ -130,33 +124,43 @@ You need a place to play, some RNG [d20, d6, coins, or OTHER], pencils, paper, p
  - If a move is garuanteed to take up multiple ticks, draw a vertical line through said ticks.
  - If a move is interrupted, draw a horizontal line at the interruption point.
  - Ongoing actions that must be asked about every turn are marked with arrows at the bottom of the section
-** Tabletop system
-   If you have to keep track of positions, it's nice to keep track of them a representative 2d system so every player knows what's going on. This is done with or without a board. If you use a board, avoid limiting movement to squares. Don't let the tabletop system make staqs too modular. Don't base abilities or stats on anything square-based.
-** How to GM staqs
-*** Keep things to yourself
-	Don't directly tell players anything that would not be apparent to their characters. Letting them uncover what you've created is part of the fun. Do not give out HP for enemies, or numerical damages of player attacks. They don't even have to exist, you can legitimately feel out the 'dead'-ness of an enemy.
-*** Communication
-	Remember that players do not have access to the same information that you do, so you must express to them as much relevant information as possible. Adding entertaining or realistic detail to things improves the experience. Think about the five senses players have. If you want to relay information specifically to a player, write it on a scrap and hand it to them, or since we live in the 21st century, maybe message their phone.
-*** Reading player actions
-	Because it's understood that players should not have to describe every nuance of what they do, determine what they would do, and have them do it. If it's too vague, or important details of their action matter, ask them directly about it. As you get better at understanding your players, you can fill in the details of their actions better.
-*** Enemies and fights
-	Fighting doesn't have to be an element of staqs, but it usually is. When something attacks something else, it's still an action that needs to be described. There is no simple "attack" operation. For example, stabbing something's chest is easy, but stabbing its eye is a DA that does more damage.
-	The timeline system makes everything much more interesting, so even with simple attacks, complex scenarios can play out. Two simultanious attacks will interact with each other, for example.
-	Make sure players understand that they can do far more than use abilities when fighting. They can use anything at their disposal to its fullest potential.
-*** World Building
-**** Environment
-	 Characters need room to roam. Draw a map before starting a campaign. If you can't think of a world, just grab one from somewhere else, like google maps, and draw your own ideas onto it.
-	 Your world should be large but flexible. Plan out very large parts of the world, and fill in details that are most immediate, and keep a stock of ideas that can be applied to anywhere the players go, for more convincing impromptu.
-**** Enemies
-	 Enemies in staqs shouldn't be designed only as gameplay elements. Think logically; would a pack of deadly slugs sit around, waiting to attack the player? Not without a reason. In a nonviolent campaign, enemies can still exist. Think about the role and function of the enemy.
-	 Try to give enemies defining physical and personality characteristics, both to avoid the monotony of fighting identical enemies, and to aid in differentiating enemies when describing battles.
-	 Do not design the exact attacks that enemies will use; design them with items, abilities, and traits just like players. If you feel unprepared, write down ideas for attacks, but do not write down a strict set of moves.
-*** How not to GM staqs
-**** Encounters
-   There is no hard line between encounter and non-encounter situations, only the timeline or tabletop becoming more important if neccessary.
-**** The 'N' Word
-	There's a rule in staqs. You don't say NO. If a player wants to try something, you can't deny them it. If you don't like something, use constructive criticism. It's not "NO", it's "why I don't like it".
-**** Video-gaminess
+* Tabletop system
+  If you have to keep track of positions, it's nice to keep track of them a representative 2d system so every player knows what's going on. This is done with or without a board. If you use a board, avoid limiting movement to squares. Don't let the tabletop system make staqs too modular. Don't base abilities or stats on anything square-based.
+* Game flow
+** Starting and Goals
+   If you read the introduction, you're probably thinking about a singular objective, where players have a clearly stated goal from the start. This is a good model for staqs.
+   The game works best starting from little. Character traits should emerge from the initial actions of players, not from an imposed personality written into a sheet. If it helps, the player characters can already be friends, and have possessions like sleeping bags, etc. The idea is to start game action and roleplaying as quickly as possible.
+** Finishing
+   When players achieve their goal, the game is truly over. The universe and characters are not over, but end the game here. Players are entitled to roleplay a post-game, but end this particular campaign.
+   If the goal becomes unachievable, either negotiate some sort of restart condition, or start something entirely new.
+* How to GM staqs
+** Explaining staqs to players
+   There is no guide for players. This is intentional, because staqs is made to be modified and given as much freedom as possible. As a GM, your interpretation of staqs matters more than what this guide says.
+   Ideally, you want to tell players what staqs is, have them create characters, and give them an idea of what's in store. Avoid being rule-centric.
+** Keep things to yourself
+       Don't directly tell players anything that would not be apparent to their characters. Letting them uncover what you've created is part of the fun. Do not give out HP for enemies, or numerical damages of player attacks. They don't even have to exist, you can legitimately feel out the 'dead'-ness of an enemy.
+** Communication
+       Remember that players do not have access to the same information that you do, so you must express to them as much relevant information as possible. Adding entertaining or realistic detail to things improves the experience. Think about the five senses players have. If you want to relay information specifically to a player, write it on a scrap and hand it to them, or since we live in the 21st century, maybe message their phone.
+** Reading player actions
+       Because it's understood that players should not have to describe every nuance of what they do, determine what they would do, and have them do it. If it's too vague, or important details of their action matter, ask them directly about it. As you get better at understanding your players, you can fill in the details of their actions better.
+** Enemies and fights
+       Fighting doesn't have to be an element of staqs, but it usually is. When something attacks something else, it's still an action that needs to be described. There is no simple "attack" operation. For example, stabbing something's chest is easy, but stabbing its eye is a DA that does more damage.
+       The timeline system makes everything much more interesting, so even with simple attacks, complex scenarios can play out. Two simultanious attacks will interact with each other, for example.
+       Make sure players understand that they can do far more than use abilities when fighting. They can use anything at their disposal to its fullest potential.
+** World Building
+*** Environment
+	Characters need room to roam. Draw a map before starting a campaign. If you can't think of a world, just grab one from somewhere else, like google maps, and draw your own ideas onto it.
+	Your world should be large but flexible. Plan out very large parts of the world, and fill in details that are most immediate, and keep a stock of ideas that can be applied to anywhere the players go, for more convincing impromptu.
+*** Enemies
+	Enemies in staqs shouldn't be designed only as gameplay elements. Think logically; would a pack of deadly slugs sit around, waiting to attack the player? Not without a reason. In a nonviolent campaign, enemies can still exist. Think about the role and function of the enemy.
+	Try to give enemies defining physical and personality characteristics, both to avoid the monotony of fighting identical enemies, and to aid in differentiating enemies when describing battles.
+	Do not design the exact attacks that enemies will use; design them with items, abilities, and traits just like players. If you feel unprepared, write down ideas for attacks, but do not write down a strict set of moves.
+** How not to GM staqs
+*** Encounters
+  There is no hard line between encounter and non-encounter situations, only the timeline or tabletop becoming more important if neccessary.
+*** The 'N' Word
+       There's a rule in staqs. You don't say NO. If a player wants to try something, you can't deny them it. If you don't like something, use constructive criticism. It's not "NO", it's "why I don't like it".
+*** Video-gaminess
 	 If everything is too definite, simple, or calculable, staqs is no longer staqs. As soon as staqs feels less like an imaginative adventure and more like like a set of procedures, something needs to change. Remember:
  - Heavily damaged things become weakened.
  - It takes a second to switch weapons.
